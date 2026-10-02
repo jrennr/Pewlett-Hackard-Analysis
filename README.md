@@ -33,3 +33,9 @@ By analyzing these aspects, Pewlett Hackard can proactively address challenges p
 
 Through SQL analysis and interpretation, this report aims to assist Bobby's manager in understanding and preparing for the organization's evolving workforce. As the "silver tsunami" approaches, proactive measures based on these insights will be crucial for ensuring Pewlett Hackard's continued success.
 
+## Project history
+
+- **Repository created:** November 2022
+- **Focus at the time:** SQL and relational data analysis
+- **Portfolio context:** This repository is intentionally preserved as part of my public development history. It shows earlier work and skill progression rather than being rewritten to resemble a current production project.
+- **Current portfolio:** [jenniferreevey.dev](https://jenniferreevey.dev/)
